@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=MongoStart
+Comment=
+GenericName=
+Keywords=
+Exec= docker start mongo
+Terminal=false
+Type=Application
+Icon=/home/igor/Рабочий стол/projects/docker_mongo/mongodb.png
+Path=
+Categories=mongo
+NoDisplay=false

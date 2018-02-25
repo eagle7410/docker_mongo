@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=MongoStop
+Comment=
+GenericName=
+Keywords=
+Exec= docker stop mongo
+Terminal=false
+Type=Application
+Icon=/home/igor/Рабочий стол/projects/docker_mongo/mongo-exit.png
+Path=
+Categories=mongo
+NoDisplay=false

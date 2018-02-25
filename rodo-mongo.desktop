@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=RoboMongo
+Comment=
+GenericName=
+Keywords=
+Exec=robo3t
+Terminal=true
+Type=Application
+Icon=/home/igor/Рабочий стол/projects/docker_mongo/robo.png
+Path=
+Categories=mongo
+NoDisplay=false
+
