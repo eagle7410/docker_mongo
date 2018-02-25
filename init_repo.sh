@@ -1,8 +1,6 @@
-#!/usr/bin/env bash
-
-echo "# node_experiments_pm2" >> README.md
+echo "# docker_mongo" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin git@github.com:eagle7410/node_experiments_pm2.git
+git remote add origin git@github.com:eagle7410/docker_mongo.git
 git push -u origin master
